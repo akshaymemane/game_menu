@@ -5,4 +5,5 @@ This is the main menu of the game, showcasing the title and interactive options 
 ### Menu Animation
 
 The animation below demonstrates the interactive elements of the menu. The user can select a game option by navigating through the menu.
+
 ![Menu Animation](output/menu_output.gif)
